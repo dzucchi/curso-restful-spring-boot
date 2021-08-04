@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/dzucchi/curso-restful-spring-boot.svg?branch=master)](https://travis-ci.com/dzucchi/curso-restful-spring-boot)
 # Read Me First
 The following was discovered as part of building this project:
 
